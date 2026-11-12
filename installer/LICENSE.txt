@@ -1,0 +1,25 @@
+77.MP3 - END USER LICENSE AGREEMENT
+Copyright (c) 2026 WajFay. All rights reserved.
+
+1. GRANT OF LICENSE
+WajFay grants you a non-exclusive, non-transferable license to install and use
+77.MP3 ("the Software") on computers you own or control, for personal and
+commercial music production. Audio you create with the Software is yours.
+
+2. RESTRICTIONS
+You may not resell, rent, sublicense or redistribute the Software, and you may
+not modify, decompile or reverse engineer it, except where the law allows.
+
+3. NO WARRANTY
+The Software is provided "as is", without warranty of any kind. WajFay is not
+liable for any damage or data loss arising from its use.
+
+4. THIRD-PARTY COMPONENTS
+The Software uses the JUCE framework (https://juce.com) and the Inter typeface
+by Rasmus Andersson, licensed under the SIL Open Font License 1.1.
+
+VST is a registered trademark of Steinberg Media Technologies GmbH.
+FL Studio is a trademark of Image-Line Software.
+
+By installing the Software you agree to these terms.
+https://www.instagram.com/wajfay
